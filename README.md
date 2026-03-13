@@ -38,7 +38,7 @@ These tools are commonly used in real-world business intelligence projects for b
 ## Files in this Repository
 
 - `BI SALES DASHBOARD.pbix` – main Power BI report file  
-- `image.png` – dashboard screenshot for quick preview  
+- `sales_dashboard_preview.png` – dashboard screenshot for quick preview  
 - `data/` (optional) – sample dataset used for the report (if allowed to share)  
 - `README.md` – project documentation  
 
