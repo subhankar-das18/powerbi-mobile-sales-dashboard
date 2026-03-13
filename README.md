@@ -2,7 +2,7 @@
 
 This project is an interactive **Power BI dashboard** that analyzes mobile phone sales performance across India. It is part of my data analytics portfolio and focuses on turning raw sales data into clear business insights.
 
-## Project Overview
+## Project Overview 
 
 The dashboard helps stakeholders quickly understand:
 
